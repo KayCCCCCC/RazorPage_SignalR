@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage.props" />
+</Project>

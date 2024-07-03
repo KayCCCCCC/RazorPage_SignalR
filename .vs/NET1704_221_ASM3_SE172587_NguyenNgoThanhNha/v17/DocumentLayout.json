@@ -1,0 +1,301 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CN7\\PRN221\\RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D913F69-F8C0-4152-BE23-A6819AE3E0C2}|NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage.csproj|d:\\cn7\\prn221\\razorpage\\net1704_221_asm3_se172587_nguyenngothanhnha\\net1704_221_asm3_se172587_nguyenngothanhnha.razorpage\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D913F69-F8C0-4152-BE23-A6819AE3E0C2}|NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage.csproj|solutionrelative:net1704_221_asm3_se172587_nguyenngothanhnha.razorpage\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D913F69-F8C0-4152-BE23-A6819AE3E0C2}|NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage.csproj|d:\\cn7\\prn221\\razorpage\\net1704_221_asm3_se172587_nguyenngothanhnha\\net1704_221_asm3_se172587_nguyenngothanhnha.razorpage\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D913F69-F8C0-4152-BE23-A6819AE3E0C2}|NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage.csproj|solutionrelative:net1704_221_asm3_se172587_nguyenngothanhnha.razorpage\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D913F69-F8C0-4152-BE23-A6819AE3E0C2}|NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage.csproj|d:\\cn7\\prn221\\razorpage\\net1704_221_asm3_se172587_nguyenngothanhnha\\net1704_221_asm3_se172587_nguyenngothanhnha.razorpage\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D913F69-F8C0-4152-BE23-A6819AE3E0C2}|NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage.csproj|solutionrelative:net1704_221_asm3_se172587_nguyenngothanhnha.razorpage\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D913F69-F8C0-4152-BE23-A6819AE3E0C2}|NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage.csproj|d:\\cn7\\prn221\\razorpage\\net1704_221_asm3_se172587_nguyenngothanhnha\\net1704_221_asm3_se172587_nguyenngothanhnha.razorpage\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D913F69-F8C0-4152-BE23-A6819AE3E0C2}|NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage.csproj|solutionrelative:net1704_221_asm3_se172587_nguyenngothanhnha.razorpage\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D913F69-F8C0-4152-BE23-A6819AE3E0C2}|NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage.csproj|d:\\cn7\\prn221\\razorpage\\net1704_221_asm3_se172587_nguyenngothanhnha\\net1704_221_asm3_se172587_nguyenngothanhnha.razorpage\\pages\\tutors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D913F69-F8C0-4152-BE23-A6819AE3E0C2}|NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage.csproj|solutionrelative:net1704_221_asm3_se172587_nguyenngothanhnha.razorpage\\pages\\tutors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D913F69-F8C0-4152-BE23-A6819AE3E0C2}|NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage.csproj|D:\\CN7\\PRN221\\RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha\\net1704_221_asm3_se172587_nguyenngothanhnha.razorpage\\pages\\tutors\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D913F69-F8C0-4152-BE23-A6819AE3E0C2}|NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage.csproj|solutionrelative:net1704_221_asm3_se172587_nguyenngothanhnha.razorpage\\pages\\tutors\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D913F69-F8C0-4152-BE23-A6819AE3E0C2}|NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage.csproj|D:\\CN7\\PRN221\\RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha\\net1704_221_asm3_se172587_nguyenngothanhnha.razorpage\\pages\\tutors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D913F69-F8C0-4152-BE23-A6819AE3E0C2}|NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage.csproj|solutionrelative:net1704_221_asm3_se172587_nguyenngothanhnha.razorpage\\pages\\tutors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D913F69-F8C0-4152-BE23-A6819AE3E0C2}|NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage.csproj|D:\\CN7\\PRN221\\RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha\\net1704_221_asm3_se172587_nguyenngothanhnha.razorpage\\pages\\tutors\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D913F69-F8C0-4152-BE23-A6819AE3E0C2}|NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage.csproj|solutionrelative:net1704_221_asm3_se172587_nguyenngothanhnha.razorpage\\pages\\tutors\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D913F69-F8C0-4152-BE23-A6819AE3E0C2}|NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage.csproj|D:\\CN7\\PRN221\\RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha\\net1704_221_asm3_se172587_nguyenngothanhnha.razorpage\\pages\\tutors\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D913F69-F8C0-4152-BE23-A6819AE3E0C2}|NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage.csproj|solutionrelative:net1704_221_asm3_se172587_nguyenngothanhnha.razorpage\\pages\\tutors\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D913F69-F8C0-4152-BE23-A6819AE3E0C2}|NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage.csproj|D:\\CN7\\PRN221\\RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha\\net1704_221_asm3_se172587_nguyenngothanhnha.razorpage\\pages\\tutors\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D913F69-F8C0-4152-BE23-A6819AE3E0C2}|NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage.csproj|solutionrelative:net1704_221_asm3_se172587_nguyenngothanhnha.razorpage\\pages\\tutors\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9DBFF1-88AE-444A-9EF6-B0F6AD6534AA}|NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.Business\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.Business.csproj|D:\\CN7\\PRN221\\RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha\\net1704_221_asm3_se172587_nguyenngothanhnha.business\\tutorbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9DBFF1-88AE-444A-9EF6-B0F6AD6534AA}|NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.Business\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.Business.csproj|solutionrelative:net1704_221_asm3_se172587_nguyenngothanhnha.business\\tutorbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CABADE70-21DE-4E13-9045-1B611A17FA21}|NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.Data\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.Data.csproj|D:\\CN7\\PRN221\\RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha\\net1704_221_asm3_se172587_nguyenngothanhnha.data\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CABADE70-21DE-4E13-9045-1B611A17FA21}|NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.Data\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.Data.csproj|solutionrelative:net1704_221_asm3_se172587_nguyenngothanhnha.data\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D913F69-F8C0-4152-BE23-A6819AE3E0C2}|NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage.csproj|D:\\CN7\\PRN221\\RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha\\net1704_221_asm3_se172587_nguyenngothanhnha.razorpage\\pages\\tutors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D913F69-F8C0-4152-BE23-A6819AE3E0C2}|NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage.csproj|solutionrelative:net1704_221_asm3_se172587_nguyenngothanhnha.razorpage\\pages\\tutors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CABADE70-21DE-4E13-9045-1B611A17FA21}|NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.Data\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.Data.csproj|D:\\CN7\\PRN221\\RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha\\net1704_221_asm3_se172587_nguyenngothanhnha.data\\repository\\tutorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CABADE70-21DE-4E13-9045-1B611A17FA21}|NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.Data\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.Data.csproj|solutionrelative:net1704_221_asm3_se172587_nguyenngothanhnha.data\\repository\\tutorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D913F69-F8C0-4152-BE23-A6819AE3E0C2}|NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage.csproj|D:\\CN7\\PRN221\\RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha\\net1704_221_asm3_se172587_nguyenngothanhnha.razorpage\\pages\\tutors\\list.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D913F69-F8C0-4152-BE23-A6819AE3E0C2}|NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage.csproj|solutionrelative:net1704_221_asm3_se172587_nguyenngothanhnha.razorpage\\pages\\tutors\\list.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D913F69-F8C0-4152-BE23-A6819AE3E0C2}|NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage.csproj|D:\\CN7\\PRN221\\RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha\\net1704_221_asm3_se172587_nguyenngothanhnha.razorpage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D913F69-F8C0-4152-BE23-A6819AE3E0C2}|NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage.csproj|solutionrelative:net1704_221_asm3_se172587_nguyenngothanhnha.razorpage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D913F69-F8C0-4152-BE23-A6819AE3E0C2}|NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage.csproj|D:\\CN7\\PRN221\\RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha\\net1704_221_asm3_se172587_nguyenngothanhnha.razorpage\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1D913F69-F8C0-4152-BE23-A6819AE3E0C2}|NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage.csproj|solutionrelative:net1704_221_asm3_se172587_nguyenngothanhnha.razorpage\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\CN7\\PRN221\\RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "D:\\CN7\\PRN221\\RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T16:50:46.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\CN7\\PRN221\\RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "D:\\CN7\\PRN221\\RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T16:50:44.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CN7\\PRN221\\RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\CN7\\PRN221\\RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\Pages\\Index.cshtml",
+              "RelativeToolTip": "NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T16:49:10.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\CN7\\PRN221\\RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\CN7\\PRN221\\RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T16:49:01.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "D:\\CN7\\PRN221\\RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\Pages\\Tutors\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\Pages\\Tutors\\Delete.cshtml.cs",
+              "ToolTip": "D:\\CN7\\PRN221\\RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\Pages\\Tutors\\Delete.cshtml.cs",
+              "RelativeToolTip": "NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\Pages\\Tutors\\Delete.cshtml.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAACoAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:34:16.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "D:\\CN7\\PRN221\\RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\Pages\\Tutors\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\Pages\\Tutors\\Edit.cshtml.cs",
+              "ToolTip": "D:\\CN7\\PRN221\\RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\Pages\\Tutors\\Edit.cshtml.cs",
+              "RelativeToolTip": "NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\Pages\\Tutors\\Edit.cshtml.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAmwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T14:44:00.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\CN7\\PRN221\\RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\Pages\\Tutors\\Edit.cshtml",
+              "RelativeDocumentMoniker": "NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\Pages\\Tutors\\Edit.cshtml",
+              "ToolTip": "D:\\CN7\\PRN221\\RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\Pages\\Tutors\\Edit.cshtml",
+              "RelativeToolTip": "NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\Pages\\Tutors\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T14:42:48.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\CN7\\PRN221\\RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\Pages\\Tutors\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\Pages\\Tutors\\Create.cshtml.cs",
+              "ToolTip": "D:\\CN7\\PRN221\\RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\Pages\\Tutors\\Create.cshtml.cs",
+              "RelativeToolTip": "NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\Pages\\Tutors\\Create.cshtml.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T13:06:27.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "D:\\CN7\\PRN221\\RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\Pages\\Tutors\\List.cshtml",
+              "RelativeDocumentMoniker": "NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\Pages\\Tutors\\List.cshtml",
+              "ToolTip": "D:\\CN7\\PRN221\\RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\Pages\\Tutors\\List.cshtml",
+              "RelativeToolTip": "NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\Pages\\Tutors\\List.cshtml",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAwwKMAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T13:10:28.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\CN7\\PRN221\\RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.Data\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.Data\\Repository\\GenericRepository.cs",
+              "ToolTip": "D:\\CN7\\PRN221\\RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.Data\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.Data\\Repository\\GenericRepository.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAmwIwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T14:21:03.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\CN7\\PRN221\\RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\Pages\\Tutors\\Delete.cshtml",
+              "RelativeDocumentMoniker": "NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\Pages\\Tutors\\Delete.cshtml",
+              "ToolTip": "D:\\CN7\\PRN221\\RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\Pages\\Tutors\\Delete.cshtml",
+              "RelativeToolTip": "NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\Pages\\Tutors\\Delete.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T14:42:59.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TutorBusiness.cs",
+              "DocumentMoniker": "D:\\CN7\\PRN221\\RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.Business\\TutorBusiness.cs",
+              "RelativeDocumentMoniker": "NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.Business\\TutorBusiness.cs",
+              "ToolTip": "D:\\CN7\\PRN221\\RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.Business\\TutorBusiness.cs",
+              "RelativeToolTip": "NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.Business\\TutorBusiness.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAmwDMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T14:19:59.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\CN7\\PRN221\\RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\Pages\\Tutors\\Create.cshtml",
+              "RelativeDocumentMoniker": "NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\Pages\\Tutors\\Create.cshtml",
+              "ToolTip": "D:\\CN7\\PRN221\\RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\Pages\\Tutors\\Create.cshtml",
+              "RelativeToolTip": "NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\Pages\\Tutors\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T13:07:42.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TutorRepository.cs",
+              "DocumentMoniker": "D:\\CN7\\PRN221\\RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.Data\\Repository\\TutorRepository.cs",
+              "RelativeDocumentMoniker": "NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.Data\\Repository\\TutorRepository.cs",
+              "ToolTip": "D:\\CN7\\PRN221\\RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.Data\\Repository\\TutorRepository.cs",
+              "RelativeToolTip": "NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.Data\\Repository\\TutorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T14:21:02.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\CN7\\PRN221\\RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\CN7\\PRN221\\RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-03T13:37:33.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "List.cshtml.cs",
+              "DocumentMoniker": "D:\\CN7\\PRN221\\RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\Pages\\Tutors\\List.cshtml.cs",
+              "RelativeDocumentMoniker": "NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\Pages\\Tutors\\List.cshtml.cs",
+              "ToolTip": "D:\\CN7\\PRN221\\RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\Pages\\Tutors\\List.cshtml.cs",
+              "RelativeToolTip": "NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\Pages\\Tutors\\List.cshtml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T13:45:42.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CN7\\PRN221\\RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\Program.cs",
+              "RelativeDocumentMoniker": "NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\Program.cs",
+              "ToolTip": "D:\\CN7\\PRN221\\RazorPage\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha\\NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\Program.cs",
+              "RelativeToolTip": "NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage\\Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAmwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T13:13:53.011Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

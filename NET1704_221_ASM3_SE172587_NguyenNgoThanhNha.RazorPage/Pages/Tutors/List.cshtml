@@ -1,0 +1,170 @@
+﻿@page
+@model NET1704_221_ASM3_SE172587_NguyenNgoThanhNha.RazorPage.Pages.Tutors.ListModel
+@{
+}
+
+<div class="bg-white p-4 mx-auto max-w-2xl rounded-lg shadow-lg">
+    <div class="d-flex justify-content-center">
+        <h1 class="mb-4 fw-bold text-2xl">List Tutor</h1>
+    </div>
+
+    <div class="d-flex pb-3 justify-content-end">
+        <a href="/tutors/create" class="btn btn-primary px-3 py-2">Create</a>
+    </div>
+
+    <div class="table-responsive rounded-lg shadow-sm">
+        <table class="table-bordered table-hover text-gray-500 table table text-left text-sm rtl:text-right">
+            <thead class="bg-secondary text-white text-uppercase text-xs">
+                <tr>
+                    <th scope="col" class="px-6 py-3">
+                        FullName
+                    </th>
+                    <th scope="col" class="px-6 py-3">
+                        Email
+                    </th>
+                    <th scope="col" class="px-6 py-3">
+                        Phone
+                    </th>
+                    <th scope="col" class="px-6 py-3">
+                        Address
+                    </th>
+                    <th scope="col" class="px-6 py-3">
+                        Gender
+                    </th>
+                    <th scope="col" class="px-6 py-3">
+                        Dob
+                    </th>
+                    <th scope="col" class="px-6 py-3">
+                        Action
+                    </th>
+                </tr>
+            </thead>
+            <tbody id="tutorList">
+                @foreach (var tutor in Model.Tutors)
+                {
+                    <tr id="tutor-@tutor.TutorId" class="bg-white border-bottom">
+                        <th scope="row" class="px-6 py-4 text-dark font-weight-bold">
+                            @tutor.Fullname
+                        </th>
+                        <td class="px-6 py-4">
+                            @tutor.Email
+                        </td>
+                        <td class="px-6 py-4">
+                            @tutor.Phone
+                        </td>
+                        <td class="px-6 py-4">
+                            @tutor.Address
+                        </td>
+                        <td class="px-6 py-4">
+                            @tutor.Gender
+                        </td>
+                        <td class="px-6 py-4">
+                            @tutor.Dob?.ToString("yyyy-MM-dd")
+                        </td>
+                        <td class="d-flex gap-2 px-6 py-4">
+                            <a href="/tutors/edit/@tutor.TutorId" class="btn btn-warning text-white" type="button">
+                                Edit
+                            </a>
+                            <a href="/tutors/delete/@tutor.TutorId" class="btn btn-danger text-white" type="button">
+                                Delete
+                            </a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/5.0.0/signalr.min.js"></script>
+    <script>
+        // Create a connection to the SignalR Hub at "/tutorHub"
+        const connection = new signalR.HubConnectionBuilder().withUrl("/tutorHub").build();
+
+        // Start the connection
+        connection.start().catch(function (err) {
+            console.error(err.toString());
+        });
+
+        // Handle the notification for creating a new tutor
+        connection.on("ReceiveTutorCreate", function (tutor) {
+            console.log("Create:", tutor);
+            const tutorList = document.getElementById("tutorList");
+            const newRow = document.createElement("tr");
+            newRow.id = `tutor-${tutor.TutorId}`;
+            newRow.innerHTML = `
+                        <th scope="row" class="px-6 py-4 text-dark font-weight-bold">
+                            ${tutor.Fullname}
+                        </th>
+                        <td class="px-6 py-4">
+                            ${tutor.Email}
+                        </td>
+                        <td class="px-6 py-4">
+                            ${tutor.Phone}
+                        </td>
+                        <td class="px-6 py-4">
+                            ${tutor.Address}
+                        </td>
+                        <td class="px-6 py-4">
+                            ${tutor.Gender}
+                        </td>
+                        <td class="px-6 py-4">
+                            ${new Date(tutor.Dob).toISOString().split('T')[0]}
+                        </td>
+                        <td class="d-flex gap-2 px-6 py-4">
+                            <a href="/tutors/edit/${tutor.TutorId}" class="btn btn-warning text-white" type="button">
+                                Edit
+                            </a>
+                            <a href="/tutors/delete/${tutor.TutorId}" class="btn btn-danger text-white" type="button">
+                                Delete
+                            </a>
+                        </td>`;
+            tutorList.insertBefore(newRow, tutorList.firstChild);
+        });
+
+        // Handle the notification for update tutor
+        connection.on("ReceiveTutorUpdate", function (tutor) {
+            console.log("Update:", tutor);
+            const existingRow = document.getElementById(`tutor-${tutor.TutorId}`);
+            if(existingRow){
+                existingRow.innerHTML = `
+                                <th scope="row" class="px-6 py-4 text-dark font-weight-bold">
+                                    ${tutor.Fullname}
+                                </th>
+                                <td class="px-6 py-4">
+                                    ${tutor.Email}
+                                </td>
+                                <td class="px-6 py-4">
+                                    ${tutor.Phone}
+                                </td>
+                                <td class="px-6 py-4">
+                                    ${tutor.Address}
+                                </td>
+                                <td class="px-6 py-4">
+                                    ${tutor.Gender}
+                                </td>
+                                <td class="px-6 py-4">
+                                    ${new Date(tutor.Dob).toISOString().split('T')[0]}
+                                </td>
+                                <td class="d-flex gap-2 px-6 py-4">
+                                    <a href="/tutors/edit/${tutor.TutorId}" class="btn btn-warning text-white" type="button">
+                                        Edit
+                                    </a>
+                                    <a href="/tutors/delete/${tutor.TutorId}" class="btn btn-danger text-white" type="button">
+                                        Delete
+                                    </a>
+                                </td>`;
+            }
+        });
+
+        // Handle the notification for delete tutor
+        connection.on("ReceiveTutorDelete", function (tutorId) {
+            console.log("Delete:", tutorId);
+            const rowToRemove = document.getElementById(`tutor-${tutorId}`);
+            if (rowToRemove) {
+                rowToRemove.remove();
+            }
+        });
+    </script>
+}
